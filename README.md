@@ -1,3 +1,3 @@
 # AI_workplace_analysis
-##analysis using Python
+## analysing using Python
 analysing AI in workplace

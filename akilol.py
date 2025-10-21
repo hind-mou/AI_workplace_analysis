@@ -2,7 +2,7 @@
 
 def print_rabbit():
     rabbit_face = """
-      Rabbit
+      RRabbit
        Face
     """
     print(rabbit_face)
